@@ -16,13 +16,14 @@ Passionate cybersecurity practitioner specializing in vulnerability management a
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="Emran | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
+[<img align="left" alt="Emran | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Emran | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram" />][instagram]
 [<img align="left" alt="Emran | Facebook" width="22px" src="https://cdn.simpleicons.org/facebook" />][facebook]
 
 [linkedin]: https://www.linkedin.com/in/emran-hossain-934349257/
 [instagram]: https://www.instagram.com/emranh9801/
-[facebook]: https://www.facebook.com/emran.h.982
+[facebook]: https://www.facebook.com/yourfacebookusername
+
 
 
 <!--

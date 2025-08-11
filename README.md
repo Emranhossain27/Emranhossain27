@@ -23,7 +23,7 @@ Passionate cybersecurity practitioner specializing in vulnerability management a
 
 [twitter]: https://twitter.com/__________
 [youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/___________
+[instagram]: https://www.instagram.com/emranh9801/
 [linkedin]: https://www.linkedin.com/in/emran-hossain-934349257/
 
 <!--

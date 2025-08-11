@@ -21,10 +21,10 @@ Passionate cybersecurity practitioner specializing in vulnerability management a
 [<img align="left" alt="Emran | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Emran | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/___________
+[twitter]: https://twitter.com/__________
 [youtube]: https://www.youtube.com/c/___________
 [instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/___________
+[linkedin]: https://www.linkedin.com/in/emran-hossain-934349257/
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 

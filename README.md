@@ -16,7 +16,8 @@ Passionate cybersecurity practitioner specializing in vulnerability management a
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="Emran | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Emran | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
+][linkedin]
 [<img align="left" alt="Emran | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram" />][instagram]
 [<img align="left" alt="Emran | Facebook" width="22px" src="https://cdn.simpleicons.org/facebook" />][facebook]
 

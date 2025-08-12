@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/emran-hossain-934349257/">Emran Hossain</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/emranhossain278/">Emran Hossain</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 Passionate cybersecurity practitioner specializing in vulnerability management and threat detection. I apply hands-on expertise to develop practical solutions that strengthen security operations and address evolving cyber threats.
 

@@ -6,7 +6,7 @@ Passionate cybersecurity practitioner specializing in vulnerability management a
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Emranhossain27/Vulnerability-management-program/tree/main)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/Emranhossain27/programmatic-vulnerability-remediations/tree/main)**
 
 
 ## 🚨 Threat Hunting and Security Operations

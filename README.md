@@ -11,6 +11,7 @@ Passionate cybersecurity practitioner specializing in vulnerability management a
 
 ## 🚨 Threat Hunting and Security Operations
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Emranhossain27/threat-hunting-scenario-tor/blob/main/README.md)**
+- - **[Linux Privilege Escalation and Data Exfiltration](https://github.com/Emranhossain27/-Linux-Privilege-Escalation-and-Data-Exfiltration)**
 <hr/>
 
 ## 🤳 Connect With Me

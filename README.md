@@ -11,6 +11,7 @@ Passionate cybersecurity practitioner specializing in vulnerability management a
 
 ## 🚨 Threat Hunting and Security Operations
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Emranhossain27/threat-hunting-scenario-tor/blob/main/README.md)**
+- **[Brute Force Attempt Detection](https://github.com/Emranhossain27/All_Threat_Hunt_Reports/blob/main/Brute%20Force/brute_force.md)**
 - **[Linux Privilege Escalation and Data Exfiltration](https://github.com/Emranhossain27/-Linux-Privilege-Escalation-and-Data-Exfiltration)**
 - **[Sudden Network Slowdowns](https://github.com/Emranhossain27/All_Threat_Hunt_Reports/blob/main/Network%20Slowdown/Network_Slowdown.md)**
 - **[ Devices Accidentally Exposed to the Internet](https://github.com/Emranhossain27/All_Threat_Hunt_Reports/blob/main/Device%20Exposed/Devices%20Accidentally%20Exposed%20to%20the%20Internet.md)**

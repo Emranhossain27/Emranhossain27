@@ -14,6 +14,7 @@ Passionate cybersecurity practitioner specializing in vulnerability management a
 - **[Brute Force Attempt Detection](https://github.com/Emranhossain27/All_Threat_Hunt_Reports/blob/main/Brute%20Force/brute_force.md)**
 - **[Linux Privilege Escalation and Data Exfiltration](https://github.com/Emranhossain27/-Linux-Privilege-Escalation-and-Data-Exfiltration)**
 - **[Sudden Network Slowdowns](https://github.com/Emranhossain27/All_Threat_Hunt_Reports/blob/main/Network%20Slowdown/Network_Slowdown.md)**
+- **[Potential Impossible Travel](https://github.com/Emranhossain27/All_Threat_Hunt_Reports/blob/main/Potential%20Travel/Potential%20Impossible%20Travel.md)**
 - **[PowerShell Suspicious Web Request](https://github.com/Emranhossain27/All_Threat_Hunt_Reports/blob/main/Suspecious%20Webrequest/PowerShell%20Suspicious%20Web%20Request.md)**
 - **[ Devices Accidentally Exposed to the Internet](https://github.com/Emranhossain27/All_Threat_Hunt_Reports/blob/main/Device%20Exposed/Devices%20Accidentally%20Exposed%20to%20the%20Internet.md)**
 - **[ Data Exfiltration from PIP’d Employee](https://github.com/Emranhossain27/All_Threat_Hunt_Reports/blob/main/Data%20Exfiltration/:%20Data%20Exfiltration%20from%20PIPd%20Employee.md)**

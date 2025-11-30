@@ -20,6 +20,10 @@ Passionate cybersecurity practitioner specializing in vulnerability management a
 - **[ Data Exfiltration from PIP’d Employee](https://github.com/Emranhossain27/All_Threat_Hunt_Reports/blob/main/Data%20Exfiltration/:%20Data%20Exfiltration%20from%20PIPd%20Employee.md)**
 <hr/>
 
+## ⚠️ Cyber Threat Hunt Challenge
+- **[Virtual Machine Compromise](https://github.com/Emranhossain27/Cyber-Range-Threat-Hunts/blob/main/Virtual%20Machine%20Compromise/AZUKI-SL%20Compromise.md)**
+
+
 ## 🤳 Connect With Me
 
 [<img align="left" alt="Emran | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />

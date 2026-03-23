@@ -23,6 +23,7 @@ Passionate cybersecurity practitioner specializing in vulnerability management a
 ## ⚠️ Cyber Threat Hunt Challenge
 - **[AZUKI-SL Compromise](https://github.com/Emranhossain27/Cyber-Range-Threat-Hunts/blob/main/Virtual%20Machine%20Compromise/AZUKI-SL%20Compromise.md)**
 - **[LINUX BACKUP SERVER COMPROMISE](https://github.com/Emranhossain27/Cyber-Range-Threat-Hunts/blob/main/Virtual%20Machine%20Compromise/LINUX%20BACKUP%20SERVER%20COMPROMISE.md)**
+- **[The Buyers](https://github.com/Emranhossain27/Cyber-Range-Threat-Hunts/blob/main/The%20Buyer.md)**
 
 <hr/>
 ## 🤳 Connect With Me

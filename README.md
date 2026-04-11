@@ -53,35 +53,6 @@ Cybersecurity professional specializing in **threat detection, incident response
 
 ---
 
-## 🔬 Core Competencies
-
-**🚨 Threat Detection & Hunting**
-> SIEM triage (Splunk, Microsoft Sentinel) · KQL dashboards · MITRE ATT&CK mapping · IOC detection · Threat intelligence
-
-**🛡️ Incident Response & Forensics**
-> NIST CSF-aligned IR playbooks · Digital forensics (EnCase, Velociraptor) · Malware analysis · Post-incident reporting
-
-**⚡ Vulnerability Management**
-> Tenable Nessus scanning · CVSS prioritization · PowerShell & Bash remediation automation · DISA STIG hardening
-
-**☁️ Cloud & Infrastructure Security**
-> Microsoft Azure · Firewall/NSG configuration · Cloud threat hunting · Insider threat & identity detection
-
----
-
-## 🛠️ Tools & Technologies
-
-| Category | Technologies |
-|---|---|
-| **SIEM / Detection** | Microsoft Sentinel, Splunk, EDR |
-| **Forensics** | EnCase, Velociraptor |
-| **Vuln Management** | Tenable Nessus, CVSS/CVE/CWE |
-| **Scripting** | PowerShell, Python, Bash, KQL, SQL, C++ |
-| **Cloud** | Microsoft Azure, Firewall/NSG, Git/GitHub |
-| **Web** | HTML, CSS, JavaScript |
-| **Frameworks** | MITRE ATT&CK, NIST CSF, DISA STIG |
-
----
 
 ## 📁 Projects
 
@@ -126,3 +97,34 @@ Cybersecurity professional specializing in **threat detection, incident response
 [📧 Email](mailto:emranhossain278813@gmail.com)
 
 </div>
+
+
+## 🔬 Core Competencies
+
+**🚨 Threat Detection & Hunting**
+> SIEM triage (Splunk, Microsoft Sentinel) · KQL dashboards · MITRE ATT&CK mapping · IOC detection · Threat intelligence
+
+**🛡️ Incident Response & Forensics**
+> NIST CSF-aligned IR playbooks · Digital forensics (EnCase, Velociraptor) · Malware analysis · Post-incident reporting
+
+**⚡ Vulnerability Management**
+> Tenable Nessus scanning · CVSS prioritization · PowerShell & Bash remediation automation · DISA STIG hardening
+
+**☁️ Cloud & Infrastructure Security**
+> Microsoft Azure · Firewall/NSG configuration · Cloud threat hunting · Insider threat & identity detection
+
+---
+
+## 🛠️ Tools & Technologies
+
+| Category | Technologies |
+|---|---|
+| **SIEM / Detection** | Microsoft Sentinel, Splunk, EDR |
+| **Forensics** | EnCase, Velociraptor |
+| **Vuln Management** | Tenable Nessus, CVSS/CVE/CWE |
+| **Scripting** | PowerShell, Python, Bash, KQL, SQL, C++ |
+| **Cloud** | Microsoft Azure, Firewall/NSG, Git/GitHub |
+| **Web** | HTML, CSS, JavaScript |
+| **Frameworks** | MITRE ATT&CK, NIST CSF, DISA STIG |
+
+---

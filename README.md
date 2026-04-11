@@ -1,66 +1,44 @@
 <div align="center">
 
 # 🔐 Emran Hossain
-### SOC Analyst · Threat Hunter · Vulnerability Management Specialist
 
-📍 Youngstown, OH &nbsp;|&nbsp; 🟢 Actively Seeking Cybersecurity Roles &nbsp;|&nbsp; Open to Remote & Relocation
+**SOC Analyst &nbsp;·&nbsp; Threat Hunter &nbsp;·&nbsp; Vulnerability Management Specialist**
 
-[🔗 LinkedIn](https://www.linkedin.com/in/emran-hossain-934349257/) &nbsp;·&nbsp;
-[🌐 Portfolio](https://emranhossain27.github.io) &nbsp;·&nbsp;
-[📧 Email Me](mailto:emranhossain278813@gmail.com) &nbsp;·&nbsp;
-[📸 Instagram](https://www.instagram.com/emranh9801/) &nbsp;·&nbsp;
-[👥 Facebook](https://www.facebook.com/emran.h.982)
+📍 Youngstown, OH &nbsp;·&nbsp; Open to Remote & Relocation
+
+<br/>
+
+<a href="https://www.linkedin.com/in/emran-hossain-934349257/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="22" width="22" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/emranh9801/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="22" width="22" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.facebook.com/emran.h.982" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="22" width="22" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://emranhossain27.github.io"><strong>🌐 Portfolio</strong></a>
+&nbsp;&nbsp;
+<a href="mailto:emranhossain278813@gmail.com"><strong>📧 Email</strong></a>
 
 </div>
 
 ---
 
-Cybersecurity practitioner with hands-on SOC experience across enterprise environments. I don't just monitor alerts — I **investigate, contain, and eliminate threats**. From building KQL detection dashboards to automating vulnerability remediation with PowerShell, I bring real operational results.
+I build detections, hunt threats, and close vulnerabilities before they become incidents. With real SOC experience across Microsoft Sentinel and Azure — I bring both the technical depth and the operational mindset that security teams need.
 
-```yaml
-Status   : 🟢 Open to SOC Analyst · Threat Hunter · IR Analyst · Vuln Management roles
-Education: B.S. Computer Science — Youngstown State University (May 2026)
-Location : Youngstown, OH · Remote OK · Open to Relocation
-Contact  : emranhossain278813@gmail.com · 330-518-0123
-```
+🎓 B.S. Computer Science — Youngstown State University
 
 ---
 
-## 💥 Impact By The Numbers
+## 💥 Results
 
-| 🚨 200+ | ⚡ 100% | 🔥 30% | 🛡️ 25% |
+| 🚨 200+ alerts/month | ✅ 100% critical vulns eliminated | ⚡ 30% faster breach resolution | 🛡️ 25% fewer vulnerabilities |
 |:---:|:---:|:---:|:---:|
-| Security alerts analyzed per month | Reduction in critical vulnerabilities | Faster breach resolution time | Fewer vulnerabilities post-assessment |
-
----
-
-## 🔬 Core Skills
-
-**Threat Detection & Hunting**
-> SIEM triage (Splunk, Microsoft Sentinel) · KQL dashboards · MITRE ATT&CK mapping · IOC detection · Threat intelligence
-
-**Incident Response & Forensics**
-> NIST CSF-aligned IR playbooks · Digital forensics (EnCase, Velociraptor) · Malware analysis · Post-incident reporting
-
-**Vulnerability Management**
-> Tenable Nessus scanning · CVSS prioritization · PowerShell & Bash remediation automation · DISA STIG hardening
-
-**Cloud & Infrastructure Security**
-> Microsoft Azure · Firewall/NSG configuration · Cloud threat hunting · Insider threat & identity detection
-
----
-
-## 🛠️ Tools & Technologies
-
-| Category | Technologies |
-|---|---|
-| **SIEM / Detection** | Microsoft Sentinel, Splunk, EDR |
-| **Forensics** | EnCase, Velociraptor |
-| **Vuln Management** | Tenable Nessus, CVSS/CVE/CWE |
-| **Scripting** | PowerShell, Python, Bash, KQL, SQL, C++ |
-| **Cloud** | Microsoft Azure, Firewall/NSG, Git/GitHub |
-| **Web** | HTML, CSS, JavaScript |
-| **Frameworks** | MITRE ATT&CK, NIST CSF, DISA STIG |
+| Triaged in Microsoft Sentinel | Via Nessus + PowerShell automation | Through NIST CSF-aligned IR | Post NIST risk assessments |
 
 ---
 
@@ -72,8 +50,6 @@ Contact  : emranhossain278813@gmail.com · 330-518-0123
 |---|---|---|
 | [**Vulnerability Management Program**](https://github.com/Emranhossain27/Vulnerability-management-program/tree/main) | End-to-end vuln lifecycle — Nessus scans, CVSS prioritization, PowerShell remediation, stakeholder reporting | ✅ 100% critical vuln elimination |
 | [**Programmatic Vulnerability Remediations**](https://github.com/Emranhossain27/programmatic-vulnerability-remediations/tree/main) | Automated remediation at scale with PowerShell & Bash, applied DISA STIG hardening | ✅ Major reduction in high-risk findings |
-
----
 
 ### 🚨 Threat Hunting & Security Operations
 
@@ -88,8 +64,6 @@ Contact  : emranhossain278813@gmail.com · 330-518-0123
 | [**Devices Exposed to Internet**](https://github.com/Emranhossain27/All_Threat_Hunt_Reports/blob/main/Device%20Exposed/Devices%20Accidentally%20Exposed%20to%20the%20Internet.md) | Cloud misconfiguration response | Azure NSG · Firewall |
 | [**Data Exfiltration — Insider Threat**](https://github.com/Emranhossain27/All_Threat_Hunt_Reports/blob/main/Data%20Exfiltration/:%20Data%20Exfiltration%20from%20PIPd%20Employee.md) | Insider threat investigation | Sentinel · DLP |
 
----
-
 ### 🏆 Cyber Range Challenges
 
 | Challenge | Environment | Status |
@@ -100,33 +74,31 @@ Contact  : emranhossain278813@gmail.com · 330-518-0123
 
 ---
 
-## 💼 Work Experience
+## 🛠️ Tools & Skills
 
-**🔵 LOG(N) Pacific** — *Cyber Range Intern* &nbsp;`Sep 2025 – Mar 2026` *(Remote)*
-> Analyzed 200+ security alerts/month in Splunk & Sentinel · Led NIST CSF incident response · Digital forensics with EnCase & Velociraptor · Reduced breach resolution time by 30%
-
-**🟢 Economic Action Group** — *Program Intern* &nbsp;`Jun 2025 – Aug 2025` *(Youngstown, OH)*
-> NIST-aligned risk assessments · Reduced vulnerabilities by 25% · Built secure web applications · Increased user engagement 40%
-
-**🟡 Youngstown State University** — *Student Grant Digital Assistant* &nbsp;`Mar 2025 – Jun 2025` *(Youngstown, OH)*
-> Produced cybersecurity reports & research posters · Formatted 50+ technical documents · Stakeholder engagement up 40%
+| Category | Technologies |
+|---|---|
+| **SIEM / Detection** | Microsoft Sentinel, EDR |
+| **Forensics** | EnCase, Velociraptor |
+| **Vuln Management** | Tenable Nessus, CVSS / CVE / CWE |
+| **Scripting** | PowerShell, Python, Bash, KQL, SQL, C++ |
+| **Cloud** | Microsoft Azure, Firewall / NSG, Git / GitHub |
+| **Frameworks** | MITRE ATT&CK, NIST CSF, DISA STIG |
 
 ---
 
-## 🤳 Connect With Me
+## 🔭 Currently Working On
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/emran-hossain-934349257/)
-- 🌐 [Portfolio Website](https://emranhossain27.github.io)
-- 📧 [emranhossain278813@gmail.com](mailto:emranhossain278813@gmail.com)
-- 📸 [Instagram](https://www.instagram.com/emranh9801/)
-- 👥 [Facebook](https://www.facebook.com/emran.h.982)
+- Building new KQL threat detection use cases
+- Deepening Azure cloud security and detection engineering
+- Pursuing **CompTIA Security+**
 
 ---
 
 <div align="center">
 
-### 🟢 Open to SOC Analyst · Threat Hunter · IR Analyst · Vulnerability Management Roles
-
-*"Security is not a product, but a process."*
+[💼 LinkedIn](https://www.linkedin.com/in/emran-hossain-934349257/) &nbsp;·&nbsp;
+[🌐 Portfolio](https://emranhossain27.github.io) &nbsp;·&nbsp;
+[📧 Email](mailto:emranhossain278813@gmail.com)
 
 </div>

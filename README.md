@@ -7,26 +7,31 @@
 
 <br/>
 
-<!--  Social links with official SVG logos hosted on GitHub's CDN — always render -->
-<a href="https://www.linkedin.com/in/emran-hossain-934349257/">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/emran-hossain-934349257/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="20" alt="LinkedIn" />
 </a>
-<a href="https://www.instagram.com/emranh9801/">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram" />
+&nbsp;
+<a href="https://www.instagram.com/emranh9801/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="20" width="20" alt="Instagram" />
 </a>
-<a href="https://www.facebook.com/emran.h.982">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" alt="Facebook" />
+&nbsp;
+<a href="https://www.facebook.com/emran.h.982" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="20" width="20" alt="Facebook" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://emranhossain27.github.io">🌐 Portfolio</a>
 &nbsp;&nbsp;
 <a href="mailto:emranhossain278813@gmail.com">📧 Email</a>
+
+<br/><br/>
+
+> *"Detecting threats before they become incidents."*
 
 </div>
 
 ---
 
-Cybersecurity practitioner with hands-on SOC experience across enterprise environments. I don't just monitor alerts — I **investigate, contain, and eliminate threats**. From building KQL detection dashboards in Microsoft Sentinel to automating vulnerability remediation with PowerShell, I bring measurable results to every environment I work in.
+Cybersecurity professional specializing in **threat detection, incident response, and vulnerability management**. I have hands-on experience operating in enterprise SOC environments — analyzing hundreds of security alerts monthly, conducting digital forensic investigations, and building automated remediation pipelines. My work is grounded in industry frameworks including NIST CSF, MITRE ATT&CK, and DISA STIG.
 
 > 🎓 B.S. Computer Science — Youngstown State University
 
@@ -35,7 +40,7 @@ Cybersecurity practitioner with hands-on SOC experience across enterprise enviro
 ## 🔭 Currently Working On
 
 - Expanding threat hunting detection library with new KQL use cases
-- Deepening Azure cloud security skills and detection engineering
+- Deepening Azure cloud security and detection engineering skills
 - Pursuing **CompTIA Security+** certification
 
 ---
@@ -75,16 +80,6 @@ Cybersecurity practitioner with hands-on SOC experience across enterprise enviro
 | **Cloud** | Microsoft Azure, Firewall/NSG, Git/GitHub |
 | **Web** | HTML, CSS, JavaScript |
 | **Frameworks** | MITRE ATT&CK, NIST CSF, DISA STIG |
-
----
-
-## 🏅 Certifications
-
-| Certification | Issuer | Status |
-|---|---|---|
-| *(Add your certifications here)* | — | — |
-
-> 📌 *Currently pursuing CompTIA Security+*
 
 ---
 

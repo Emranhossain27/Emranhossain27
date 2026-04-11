@@ -90,15 +90,6 @@ Cybersecurity professional specializing in **threat detection, incident response
 
 ---
 
-<div align="center">
-
-[💼 LinkedIn](https://www.linkedin.com/in/emran-hossain-934349257/) &nbsp;·&nbsp;
-[🌐 Portfolio](https://emranhossain27.github.io) &nbsp;·&nbsp;
-[📧 Email](mailto:emranhossain278813@gmail.com)
-
-</div>
-
-
 ## 🔬 Core Competencies
 
 **🚨 Threat Detection & Hunting**
@@ -128,3 +119,11 @@ Cybersecurity professional specializing in **threat detection, incident response
 | **Frameworks** | MITRE ATT&CK, NIST CSF, DISA STIG |
 
 ---
+
+<div align="center">
+
+[💼 LinkedIn](https://www.linkedin.com/in/emran-hossain-934349257/) &nbsp;·&nbsp;
+[🌐 Portfolio](https://emranhossain27.github.io) &nbsp;·&nbsp;
+[📧 Email](mailto:emranhossain278813@gmail.com)
+
+</div>

@@ -9,19 +9,19 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/emran-hossain-934349257/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="22" width="22" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="20" />&nbsp;LinkedIn
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://www.instagram.com/emranh9801/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="22" width="22" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="20" width="20" />&nbsp;Instagram
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://www.facebook.com/emran.h.982" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="22" width="22" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="20" width="20" />&nbsp;Facebook
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://emranhossain27.github.io"><strong>🌐 Portfolio</strong></a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="mailto:emranhossain278813@gmail.com"><strong>📧 Email</strong></a>
 
 </div>

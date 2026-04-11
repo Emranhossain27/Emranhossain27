@@ -1,45 +1,132 @@
-# <a href="https://www.linkedin.com/in/emranhossain278/">Emran Hossain</a>'s IT and Cybersecurity Project Portfolio 🔐
+<div align="center">
 
-Passionate cybersecurity practitioner specializing in vulnerability management and threat detection. I apply hands-on expertise to develop practical solutions that strengthen security operations and address evolving cyber threats.
+# 🔐 Emran Hossain
+### SOC Analyst · Threat Hunter · Vulnerability Management Specialist
 
+📍 Youngstown, OH &nbsp;|&nbsp; 🟢 Actively Seeking Cybersecurity Roles &nbsp;|&nbsp; Open to Remote & Relocation
 
-## ⚠️ Vulnerability Management Projects
+[🔗 LinkedIn](https://www.linkedin.com/in/emran-hossain-934349257/) &nbsp;·&nbsp;
+[🌐 Portfolio](https://emranhossain27.github.io) &nbsp;·&nbsp;
+[📧 Email Me](mailto:emranhossain278813@gmail.com) &nbsp;·&nbsp;
+[📸 Instagram](https://www.instagram.com/emranh9801/) &nbsp;·&nbsp;
+[👥 Facebook](https://www.facebook.com/emran.h.982)
 
-- **[Vulnerability Management Program Implementation](https://github.com/Emranhossain27/Vulnerability-management-program/tree/main)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/Emranhossain27/programmatic-vulnerability-remediations/tree/main)**
+</div>
 
+---
 
-## 🚨 Threat Hunting and Security Operations
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Emranhossain27/threat-hunting-scenario-tor/blob/main/README.md)**
-- **[Brute Force Attempt Detection](https://github.com/Emranhossain27/All_Threat_Hunt_Reports/blob/main/Brute%20Force/brute_force.md)**
-- **[Linux Privilege Escalation and Data Exfiltration](https://github.com/Emranhossain27/-Linux-Privilege-Escalation-and-Data-Exfiltration)**
-- **[Sudden Network Slowdowns](https://github.com/Emranhossain27/All_Threat_Hunt_Reports/blob/main/Network%20Slowdown/Network_Slowdown.md)**
-- **[Potential Impossible Travel](https://github.com/Emranhossain27/All_Threat_Hunt_Reports/blob/main/Potential%20Travel/Potential%20Impossible%20Travel.md)**
-- **[PowerShell Suspicious Web Request](https://github.com/Emranhossain27/All_Threat_Hunt_Reports/blob/main/Suspecious%20Webrequest/PowerShell%20Suspicious%20Web%20Request.md)**
-- **[ Devices Accidentally Exposed to the Internet](https://github.com/Emranhossain27/All_Threat_Hunt_Reports/blob/main/Device%20Exposed/Devices%20Accidentally%20Exposed%20to%20the%20Internet.md)**
-- **[ Data Exfiltration from PIP’d Employee](https://github.com/Emranhossain27/All_Threat_Hunt_Reports/blob/main/Data%20Exfiltration/:%20Data%20Exfiltration%20from%20PIPd%20Employee.md)**
-<hr/>
+Cybersecurity practitioner with hands-on SOC experience across enterprise environments. I don't just monitor alerts — I **investigate, contain, and eliminate threats**. From building KQL detection dashboards to automating vulnerability remediation with PowerShell, I bring real operational results.
 
-## ⚠️ Cyber Threat Hunt Challenge
-- **[AZUKI-SL Compromise](https://github.com/Emranhossain27/Cyber-Range-Threat-Hunts/blob/main/Virtual%20Machine%20Compromise/AZUKI-SL%20Compromise.md)**
-- **[LINUX BACKUP SERVER COMPROMISE](https://github.com/Emranhossain27/Cyber-Range-Threat-Hunts/blob/main/Virtual%20Machine%20Compromise/LINUX%20BACKUP%20SERVER%20COMPROMISE.md)**
-- **[The Buyers](https://github.com/Emranhossain27/Cyber-Range-Threat-Hunts/blob/main/The%20Buyer.md)**
+```yaml
+Status   : 🟢 Open to SOC Analyst · Threat Hunter · IR Analyst · Vuln Management roles
+Education: B.S. Computer Science — Youngstown State University (May 2026)
+Location : Youngstown, OH · Remote OK · Open to Relocation
+Contact  : emranhossain278813@gmail.com · 330-518-0123
+```
 
-<hr/>
+---
+
+## 💥 Impact By The Numbers
+
+| 🚨 200+ | ⚡ 100% | 🔥 30% | 🛡️ 25% |
+|:---:|:---:|:---:|:---:|
+| Security alerts analyzed per month | Reduction in critical vulnerabilities | Faster breach resolution time | Fewer vulnerabilities post-assessment |
+
+---
+
+## 🔬 Core Skills
+
+**Threat Detection & Hunting**
+> SIEM triage (Splunk, Microsoft Sentinel) · KQL dashboards · MITRE ATT&CK mapping · IOC detection · Threat intelligence
+
+**Incident Response & Forensics**
+> NIST CSF-aligned IR playbooks · Digital forensics (EnCase, Velociraptor) · Malware analysis · Post-incident reporting
+
+**Vulnerability Management**
+> Tenable Nessus scanning · CVSS prioritization · PowerShell & Bash remediation automation · DISA STIG hardening
+
+**Cloud & Infrastructure Security**
+> Microsoft Azure · Firewall/NSG configuration · Cloud threat hunting · Insider threat & identity detection
+
+---
+
+## 🛠️ Tools & Technologies
+
+| Category | Technologies |
+|---|---|
+| **SIEM / Detection** | Microsoft Sentinel, Splunk, EDR |
+| **Forensics** | EnCase, Velociraptor |
+| **Vuln Management** | Tenable Nessus, CVSS/CVE/CWE |
+| **Scripting** | PowerShell, Python, Bash, KQL, SQL, C++ |
+| **Cloud** | Microsoft Azure, Firewall/NSG, Git/GitHub |
+| **Web** | HTML, CSS, JavaScript |
+| **Frameworks** | MITRE ATT&CK, NIST CSF, DISA STIG |
+
+---
+
+## 📁 Projects
+
+### ⚠️ Vulnerability Management
+
+| Project | What I Did | Result |
+|---|---|---|
+| [**Vulnerability Management Program**](https://github.com/Emranhossain27/Vulnerability-management-program/tree/main) | End-to-end vuln lifecycle — Nessus scans, CVSS prioritization, PowerShell remediation, stakeholder reporting | ✅ 100% critical vuln elimination |
+| [**Programmatic Vulnerability Remediations**](https://github.com/Emranhossain27/programmatic-vulnerability-remediations/tree/main) | Automated remediation at scale with PowerShell & Bash, applied DISA STIG hardening | ✅ Major reduction in high-risk findings |
+
+---
+
+### 🚨 Threat Hunting & Security Operations
+
+| Project | Technique Covered | Tools Used |
+|---|---|---|
+| [**Tor Browser Usage Detection**](https://github.com/Emranhossain27/threat-hunting-scenario-tor/blob/main/README.md) | Covert channel & proxy detection | Sentinel · KQL · MITRE ATT&CK |
+| [**Brute Force Attempt Detection**](https://github.com/Emranhossain27/All_Threat_Hunt_Reports/blob/main/Brute%20Force/brute_force.md) | Credential-based attack triage | EDR · Sentinel |
+| [**Linux Privilege Escalation & Exfiltration**](https://github.com/Emranhossain27/-Linux-Privilege-Escalation-and-Data-Exfiltration) | Privilege abuse & data theft | Linux · Threat Intel |
+| [**Sudden Network Slowdowns**](https://github.com/Emranhossain27/All_Threat_Hunt_Reports/blob/main/Network%20Slowdown/Network_Slowdown.md) | Traffic anomaly & lateral movement | KQL · SIEM |
+| [**Potential Impossible Travel**](https://github.com/Emranhossain27/All_Threat_Hunt_Reports/blob/main/Potential%20Travel/Potential%20Impossible%20Travel.md) | Identity-based threat detection | Sentinel · Azure AD |
+| [**PowerShell Suspicious Web Request**](https://github.com/Emranhossain27/All_Threat_Hunt_Reports/blob/main/Suspecious%20Webrequest/PowerShell%20Suspicious%20Web%20Request.md) | Script-based attack detection | EDR · PowerShell |
+| [**Devices Exposed to Internet**](https://github.com/Emranhossain27/All_Threat_Hunt_Reports/blob/main/Device%20Exposed/Devices%20Accidentally%20Exposed%20to%20the%20Internet.md) | Cloud misconfiguration response | Azure NSG · Firewall |
+| [**Data Exfiltration — Insider Threat**](https://github.com/Emranhossain27/All_Threat_Hunt_Reports/blob/main/Data%20Exfiltration/:%20Data%20Exfiltration%20from%20PIPd%20Employee.md) | Insider threat investigation | Sentinel · DLP |
+
+---
+
+### 🏆 Cyber Range Challenges
+
+| Challenge | Environment | Status |
+|---|---|---|
+| [**AZUKI-SL Compromise**](https://github.com/Emranhossain27/Cyber-Range-Threat-Hunts/blob/main/Virtual%20Machine%20Compromise/AZUKI-SL%20Compromise.md) | Azure Cloud VM | ✅ Completed |
+| [**Linux Backup Server Compromise**](https://github.com/Emranhossain27/Cyber-Range-Threat-Hunts/blob/main/Virtual%20Machine%20Compromise/LINUX%20BACKUP%20SERVER%20COMPROMISE.md) | Linux / Cloud | ✅ Completed |
+| [**The Buyers**](https://github.com/Emranhossain27/Cyber-Range-Threat-Hunts/blob/main/The%20Buyer.md) | Multi-platform | ✅ Completed |
+
+---
+
+## 💼 Work Experience
+
+**🔵 LOG(N) Pacific** — *Cyber Range Intern* &nbsp;`Sep 2025 – Mar 2026` *(Remote)*
+> Analyzed 200+ security alerts/month in Splunk & Sentinel · Led NIST CSF incident response · Digital forensics with EnCase & Velociraptor · Reduced breach resolution time by 30%
+
+**🟢 Economic Action Group** — *Program Intern* &nbsp;`Jun 2025 – Aug 2025` *(Youngstown, OH)*
+> NIST-aligned risk assessments · Reduced vulnerabilities by 25% · Built secure web applications · Increased user engagement 40%
+
+**🟡 Youngstown State University** — *Student Grant Digital Assistant* &nbsp;`Mar 2025 – Jun 2025` *(Youngstown, OH)*
+> Produced cybersecurity reports & research posters · Formatted 50+ technical documents · Stakeholder engagement up 40%
+
+---
+
 ## 🤳 Connect With Me
 
-[<img align="left" alt="Emran | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
-][linkedin]
-[<img align="left" alt="Emran | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram" />][instagram]
-[<img align="left" alt="Emran | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" />](https://www.facebook.com/emran.h.982)
+- 💼 [LinkedIn](https://www.linkedin.com/in/emran-hossain-934349257/)
+- 🌐 [Portfolio Website](https://emranhossain27.github.io)
+- 📧 [emranhossain278813@gmail.com](mailto:emranhossain278813@gmail.com)
+- 📸 [Instagram](https://www.instagram.com/emranh9801/)
+- 👥 [Facebook](https://www.facebook.com/emran.h.982)
 
-[linkedin]: https://www.linkedin.com/in/emran-hossain-934349257/
-[instagram]: https://www.instagram.com/emranh9801/
-[facebook]: https://www.facebook.com/emran.h.982
+---
 
+<div align="center">
 
+### 🟢 Open to SOC Analyst · Threat Hunter · IR Analyst · Vulnerability Management Roles
 
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
+*"Security is not a product, but a process."*
+
+</div>

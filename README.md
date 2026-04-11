@@ -1,28 +1,42 @@
 <div align="center">
 
 # 🔐 Emran Hossain
-### SOC Analyst · Threat Hunter · Vulnerability Management Specialist
+### SOC Analyst &nbsp;·&nbsp; Threat Hunter &nbsp;·&nbsp; Vulnerability Management Specialist
 
-📍 Youngstown, OH &nbsp;|&nbsp; 🟢 Actively Seeking Cybersecurity Roles &nbsp;|&nbsp; Open to Remote & Relocation
+📍 Youngstown, OH &nbsp;·&nbsp; Open to Remote & Relocation
 
-[🔗 LinkedIn](https://www.linkedin.com/in/emran-hossain-934349257/) &nbsp;·&nbsp;
-[🌐 Portfolio](https://emranhossain27.github.io) &nbsp;·&nbsp;
-[📧 Email Me](mailto:emranhossain278813@gmail.com) &nbsp;·&nbsp;
-[📸 Instagram](https://www.instagram.com/emranh9801/) &nbsp;·&nbsp;
-[👥 Facebook](https://www.facebook.com/emran.h.982)
+<br/>
+
+<!--  Social links with official SVG logos hosted on GitHub's CDN — always render -->
+<a href="https://www.linkedin.com/in/emran-hossain-934349257/">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/emranh9801/">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram" />
+</a>
+<a href="https://www.facebook.com/emran.h.982">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" alt="Facebook" />
+</a>
+&nbsp;&nbsp;
+<a href="https://emranhossain27.github.io">🌐 Portfolio</a>
+&nbsp;&nbsp;
+<a href="mailto:emranhossain278813@gmail.com">📧 Email</a>
 
 </div>
 
 ---
 
-Cybersecurity practitioner with hands-on SOC experience across enterprise environments. I don't just monitor alerts — I **investigate, contain, and eliminate threats**. From building KQL detection dashboards to automating vulnerability remediation with PowerShell, I bring real operational results.
+Cybersecurity practitioner with hands-on SOC experience across enterprise environments. I don't just monitor alerts — I **investigate, contain, and eliminate threats**. From building KQL detection dashboards in Microsoft Sentinel to automating vulnerability remediation with PowerShell, I bring measurable results to every environment I work in.
 
-```yaml
-Status   : 🟢 Open to SOC Analyst · Threat Hunter · IR Analyst · Vuln Management roles
-Education: B.S. Computer Science — Youngstown State University (May 2026)
-Location : Youngstown, OH · Remote OK · Open to Relocation
-Contact  : emranhossain278813@gmail.com · 330-518-0123
-```
+> 🎓 B.S. Computer Science — Youngstown State University
+
+---
+
+## 🔭 Currently Working On
+
+- Expanding threat hunting detection library with new KQL use cases
+- Deepening Azure cloud security skills and detection engineering
+- Pursuing **CompTIA Security+** certification
 
 ---
 
@@ -34,18 +48,18 @@ Contact  : emranhossain278813@gmail.com · 330-518-0123
 
 ---
 
-## 🔬 Core Skills
+## 🔬 Core Competencies
 
-**Threat Detection & Hunting**
+**🚨 Threat Detection & Hunting**
 > SIEM triage (Splunk, Microsoft Sentinel) · KQL dashboards · MITRE ATT&CK mapping · IOC detection · Threat intelligence
 
-**Incident Response & Forensics**
+**🛡️ Incident Response & Forensics**
 > NIST CSF-aligned IR playbooks · Digital forensics (EnCase, Velociraptor) · Malware analysis · Post-incident reporting
 
-**Vulnerability Management**
+**⚡ Vulnerability Management**
 > Tenable Nessus scanning · CVSS prioritization · PowerShell & Bash remediation automation · DISA STIG hardening
 
-**Cloud & Infrastructure Security**
+**☁️ Cloud & Infrastructure Security**
 > Microsoft Azure · Firewall/NSG configuration · Cloud threat hunting · Insider threat & identity detection
 
 ---
@@ -61,6 +75,16 @@ Contact  : emranhossain278813@gmail.com · 330-518-0123
 | **Cloud** | Microsoft Azure, Firewall/NSG, Git/GitHub |
 | **Web** | HTML, CSS, JavaScript |
 | **Frameworks** | MITRE ATT&CK, NIST CSF, DISA STIG |
+
+---
+
+## 🏅 Certifications
+
+| Certification | Issuer | Status |
+|---|---|---|
+| *(Add your certifications here)* | — | — |
+
+> 📌 *Currently pursuing CompTIA Security+*
 
 ---
 
@@ -100,33 +124,10 @@ Contact  : emranhossain278813@gmail.com · 330-518-0123
 
 ---
 
-## 💼 Work Experience
-
-**🔵 LOG(N) Pacific** — *Cyber Range Intern* &nbsp;`Sep 2025 – Mar 2026` *(Remote)*
-> Analyzed 200+ security alerts/month in Splunk & Sentinel · Led NIST CSF incident response · Digital forensics with EnCase & Velociraptor · Reduced breach resolution time by 30%
-
-**🟢 Economic Action Group** — *Program Intern* &nbsp;`Jun 2025 – Aug 2025` *(Youngstown, OH)*
-> NIST-aligned risk assessments · Reduced vulnerabilities by 25% · Built secure web applications · Increased user engagement 40%
-
-**🟡 Youngstown State University** — *Student Grant Digital Assistant* &nbsp;`Mar 2025 – Jun 2025` *(Youngstown, OH)*
-> Produced cybersecurity reports & research posters · Formatted 50+ technical documents · Stakeholder engagement up 40%
-
----
-
-## 🤳 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/emran-hossain-934349257/)
-- 🌐 [Portfolio Website](https://emranhossain27.github.io)
-- 📧 [emranhossain278813@gmail.com](mailto:emranhossain278813@gmail.com)
-- 📸 [Instagram](https://www.instagram.com/emranh9801/)
-- 👥 [Facebook](https://www.facebook.com/emran.h.982)
-
----
-
 <div align="center">
 
-### 🟢 Open to SOC Analyst · Threat Hunter · IR Analyst · Vulnerability Management Roles
-
-*"Security is not a product, but a process."*
+[💼 LinkedIn](https://www.linkedin.com/in/emran-hossain-934349257/) &nbsp;·&nbsp;
+[🌐 Portfolio](https://emranhossain27.github.io) &nbsp;·&nbsp;
+[📧 Email](mailto:emranhossain278813@gmail.com)
 
 </div>

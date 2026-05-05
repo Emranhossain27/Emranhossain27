@@ -64,6 +64,7 @@ I build detections, hunt threats, and close vulnerabilities before they become i
 | [**Devices Exposed to Internet**](https://github.com/Emranhossain27/All_Threat_Hunt_Reports/blob/main/Device%20Exposed/Devices%20Accidentally%20Exposed%20to%20the%20Internet.md) | Cloud misconfiguration response | Azure NSG · Firewall |
 | [**Data Exfiltration — Insider Threat**](https://github.com/Emranhossain27/All_Threat_Hunt_Reports/blob/main/Data%20Exfiltration/:%20Data%20Exfiltration%20from%20PIPd%20Employee.md) | Insider threat investigation | Sentinel · DLP |
 | [**Attack Map**](https://github.com/Emranhossain27/All_Threat_Hunt_Reports/blob/main/Attack%20Map/Attack_map.md) | Attack Map | Sentinel · Log Analysis |
+| [**Remote Code Execution**](https://github.com/Emranhossain27/All_Threat_Hunt_Reports/blob/main/Remote%20Code%20Execution/Remote_code_execution.md) | Code Execution | MDE · Log Analysis |
 
 ### 🏆 Cyber Range Challenges
 
